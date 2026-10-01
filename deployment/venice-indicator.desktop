@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Venice AI Balance
+Comment=Show Venice Diem and USD balances
+Exec=/usr/bin/python3 @SCRIPT_PATH@
+Icon=dialog-information-symbolic
+Terminal=false
+X-GNOME-Autostart-enabled=true
